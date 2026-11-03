@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "instructions": "Add legally distributable games here. In Emulator Player, enter the hosted path as games/<filename> and choose the matching EmulatorJS system/core.",
+  "games": []
+}
