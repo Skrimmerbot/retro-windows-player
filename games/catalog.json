@@ -1,5 +1,6 @@
 {
   "schema": 1,
-  "instructions": "Add legally distributable games here. In Emulator Player, enter the hosted path as games/<filename> and choose the matching EmulatorJS system/core.",
-  "games": []
+  "instructions": "The player reads this manifest. Add an item to games with title, file (path relative to site root, e.g. games/my-dos-game.zip), and core (EmulatorJS system key, e.g. dos, nes, snes, gba, segaMD, arcade, psx, n64). Only include games you are legally allowed to host publicly.",
+  "games": [
+  ]
 }
